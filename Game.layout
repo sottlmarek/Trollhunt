@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Enemy.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="776" topLine="0" />
+	</File>
+	<File name="Enemy.h" open="1" top="0" tabpos="27">
+		<Cursor position="77" topLine="0" />
+	</File>
+	<File name="FinalEntity.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="531" topLine="0" />
+	</File>
+	<File name="FinalEntity.h" open="1" top="0" tabpos="28">
+		<Cursor position="327" topLine="0" />
+	</File>
+	<File name="GLee.c" open="1" top="0" tabpos="23">
+		<Cursor position="1104749" topLine="0" />
+	</File>
+	<File name="GLee.h" open="1" top="0" tabpos="29">
+		<Cursor position="1751" topLine="29" />
+	</File>
+	<File name="GameWorld.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="10713" topLine="0" />
+	</File>
+	<File name="GameWorld.h" open="1" top="1" tabpos="9">
+		<Cursor position="697" topLine="22" />
+	</File>
+	<File name="General3dModel.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="126" topLine="0" />
+	</File>
+	<File name="General3dModel.h" open="0" top="0" tabpos="16">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="GrafObj.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="120" topLine="0" />
+	</File>
+	<File name="GrafObj.h" open="1" top="0" tabpos="18">
+		<Cursor position="441" topLine="0" />
+	</File>
+	<File name="Hero.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="5541" topLine="341" />
+	</File>
+	<File name="Hero.h" open="1" top="0" tabpos="11">
+		<Cursor position="276" topLine="8" />
+	</File>
+	<File name="Item.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="401" topLine="3" />
+	</File>
+	<File name="Item.h" open="1" top="0" tabpos="30">
+		<Cursor position="422" topLine="0" />
+	</File>
+	<File name="Lights.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="306" topLine="56" />
+	</File>
+	<File name="Lights.h" open="1" top="0" tabpos="13">
+		<Cursor position="168" topLine="0" />
+	</File>
+	<File name="Material.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3158" topLine="83" />
+	</File>
+	<File name="Material.h" open="1" top="0" tabpos="31">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="Menu.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="4593" topLine="122" />
+	</File>
+	<File name="Menu.h" open="1" top="0" tabpos="7">
+		<Cursor position="530" topLine="24" />
+	</File>
+	<File name="Model3ds.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="13859" topLine="325" />
+	</File>
+	<File name="Model3ds.h" open="1" top="0" tabpos="32">
+		<Cursor position="1179" topLine="0" />
+	</File>
+	<File name="Mount.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="526" topLine="6" />
+	</File>
+	<File name="Mount.h" open="1" top="0" tabpos="33">
+		<Cursor position="58" topLine="0" />
+	</File>
+	<File name="RuneStone.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="131" topLine="148" />
+	</File>
+	<File name="RuneStone.h" open="1" top="0" tabpos="34">
+		<Cursor position="526" topLine="1" />
+	</File>
+	<File name="Scene.cpp" open="1" top="0" tabpos="24">
+		<Cursor position="1538" topLine="0" />
+	</File>
+	<File name="Scene.h" open="1" top="0" tabpos="35">
+		<Cursor position="433" topLine="0" />
+	</File>
+	<File name="Terrain.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="175" topLine="94" />
+	</File>
+	<File name="Terrain.h" open="1" top="0" tabpos="36">
+		<Cursor position="440" topLine="0" />
+	</File>
+	<File name="Tree.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="348" topLine="0" />
+	</File>
+	<File name="Tree.h" open="1" top="0" tabpos="37">
+		<Cursor position="313" topLine="0" />
+	</File>
+	<File name="Vertex.h" open="1" top="0" tabpos="38">
+		<Cursor position="79" topLine="0" />
+	</File>
+	<File name="Vertex2D.h" open="1" top="0" tabpos="39">
+		<Cursor position="83" topLine="0" />
+	</File>
+	<File name="Wall.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="3518" topLine="81" />
+	</File>
+	<File name="Wall.h" open="1" top="0" tabpos="40">
+		<Cursor position="178" topLine="0" />
+	</File>
+	<File name="Weapon.cpp" open="1" top="0" tabpos="25">
+		<Cursor position="263" topLine="0" />
+	</File>
+	<File name="Weapon.h" open="1" top="0" tabpos="41">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2026" topLine="15" />
+	</File>
+	<File name="targa.cpp" open="1" top="0" tabpos="26">
+		<Cursor position="310" topLine="0" />
+	</File>
+	<File name="targa.h" open="1" top="0" tabpos="42">
+		<Cursor position="103" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

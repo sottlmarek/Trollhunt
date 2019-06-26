@@ -1,0 +1,945 @@
+# depslib dependency file v1.0
+1320848752 source:c:\users\marek\desktop\my_game_engine\targa.cpp
+	<fstream>
+	<cassert>
+	<iostream>
+	"targa.h"
+
+1290781810 c:\users\marek\desktop\my_game_engine\targa.h
+	<vector>
+	<string>
+	<fstream>
+
+1287412420 source:c:\users\marek\desktop\my_game_engine\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1250308674 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1250308682 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1287412170 c:\users\marek\desktop\my_game_engine\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\winuser.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winerror.h
+
+1228534312 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1228534324 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1228534324 c:\program files\codeblocks\mingw\include\poppack.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winver.h
+
+1228534314 c:\program files\codeblocks\mingw\include\dde.h
+
+1228534314 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1228534314 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\prsht.h
+
+1228534332 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\wincon.h
+
+1228534330 c:\program files\codeblocks\mingw\include\winbase.h
+
+1228534332 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnls.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winreg.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1228534312 c:\program files\codeblocks\mingw\include\cderr.h
+
+1228534314 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1228534316 c:\program files\codeblocks\mingw\include\imm.h
+
+1228534320 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1228534322 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1228534322 c:\program files\codeblocks\mingw\include\nb30.h
+
+1228534326 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1228534326 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1250308676 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winperf.h
+
+1228534314 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1228534330 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winspool.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1228534322 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1228534324 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\cguid.h
+
+1228534324 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1228534324 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1228534322 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1323293026 source:c:\users\marek\desktop\my_game_engine\enemy.cpp
+	"Enemy.h"
+
+1322336179 c:\users\marek\desktop\my_game_engine\enemy.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1323295319 source:c:\users\marek\desktop\my_game_engine\gameworld.cpp
+	"GameWorld.h"
+
+1322822511 c:\users\marek\desktop\my_game_engine\gameworld.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	"GLee.h"
+	<GL/glut.h>
+	"GrafObj.h"
+	"Tree.h"
+	"Hero.h"
+	"Enemy.h"
+	"Terrain.h"
+	"Runestone.h"
+	"Menu.h"
+	"Wall.h"
+	"FinalEntity.h"
+
+1323291271 source:c:\users\marek\desktop\my_game_engine\grafobj.cpp
+	"GrafObj.h"
+
+1323291131 c:\users\marek\desktop\my_game_engine\grafobj.h
+	<windows.h>
+	<stdlib.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1324323173 source:c:\users\marek\desktop\my_game_engine\hero.cpp
+	"Hero.h"
+
+1322826169 c:\users\marek\desktop\my_game_engine\hero.h
+	"GrafObj.h"
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	"Material.h"
+	"Item.h"
+	"Lights.h"
+	"Model3ds.h"
+	"Weapon.h"
+	"Mount.h"
+
+983694786 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1322822295 source:c:\users\marek\desktop\my_game_engine\scene.cpp
+	"Scene.h"
+
+1322385527 c:\users\marek\desktop\my_game_engine\scene.h
+	"GameWorld.h"
+	"Lights.h"
+	<windows.h>
+	<stdlib.h>
+	"GLee.h"
+	<GL/glut.h>
+	<iostream>
+
+1323291158 source:c:\users\marek\desktop\my_game_engine\tree.cpp
+	"Tree.h"
+
+1322325894 c:\users\marek\desktop\my_game_engine\tree.h
+	"GrafObj.h"
+	<windows.h>
+	<stdlib.h>
+	"Model3ds.h"
+
+1323296204 source:c:\users\marek\desktop\my_game_engine\main.cpp
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"Scene.h"
+	"Menu.h"
+
+1323290187 source:c:\users\marek\desktop\my_game_engine\item.cpp
+	"Item.h"
+
+1322822874 c:\users\marek\desktop\my_game_engine\item.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"GrafObj.h"
+	"Lights.h"
+
+1323204331 source:c:\users\marek\desktop\my_game_engine\material.cpp
+	"Material.h"
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1322574044 c:\users\marek\desktop\my_game_engine\material.h
+	"GLee.h"
+	<GL/glut.h>
+
+1323296740 source:c:\users\marek\desktop\my_game_engine\lights.cpp
+	"Lights.h"
+
+1322822935 c:\users\marek\desktop\my_game_engine\lights.h
+	<GL/glut.h>
+
+1321461398 source:c:\users\marek\desktop\my_game_engine\ground.cpp
+	"Ground.h"
+
+1321461419 c:\users\marek\desktop\my_game_engine\ground.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"GrafObj.h"
+
+1323293026 source:c:\users\marek\desktop\my_game_engine\terrain.cpp
+	"Terrain.h"
+	"Vertex.h"
+
+1322823027 c:\users\marek\desktop\my_game_engine\terrain.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1322823171 c:\users\marek\desktop\my_game_engine\vertex.h
+	"GLee.h"
+	<GL/glut.h>
+
+1321730459 c:\users\marek\desktop\my_game_engine\strom.h
+	<windows.h>
+	<stdlib.h>
+	"lights.h"
+	"targa.h"
+	<iostream>
+
+1320140983 c:\users\marek\desktop\my_game_engine\kmen.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	"Vertex.h"
+
+1320140998 c:\users\marek\desktop\my_game_engine\vetve.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	"Vertex.h"
+
+1320151964 source:c:\users\marek\desktop\my_game_engine\kmen.cpp
+	"kmen.h"
+
+1322214610 source:c:\users\marek\desktop\my_game_engine\strom.cpp
+	"strom.h"
+	<stdlib.h>
+
+1321044420 source:c:\users\marek\desktop\my_game_engine\vetve.cpp
+	"vetve.h"
+
+1322822974 c:\users\marek\desktop\my_game_engine\runestone.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	"Vertex.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1323291622 source:c:\users\marek\desktop\my_game_engine\runestone.cpp
+	"RuneStone.h"
+
+1321654355 source:d:\dropbox\dropbox\záloha\my_game_engine\enemy.cpp
+	"Enemy.h"
+
+1321034513 d:\dropbox\dropbox\záloha\my_game_engine\enemy.h
+	"GrafObj.h"
+
+1321730519 d:\dropbox\dropbox\záloha\my_game_engine\grafobj.h
+	<windows.h>
+	<stdlib.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1287412170 d:\dropbox\dropbox\záloha\my_game_engine\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1287412420 source:d:\dropbox\dropbox\záloha\my_game_engine\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1322069629 source:d:\dropbox\dropbox\záloha\my_game_engine\gameworld.cpp
+	"GameWorld.h"
+
+1321998589 d:\dropbox\dropbox\záloha\my_game_engine\gameworld.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	"GrafObj.h"
+	"Tree.h"
+	"Hero.h"
+	"Enemy.h"
+	"Terrain.h"
+	"Runestone.h"
+
+1321730672 d:\dropbox\dropbox\záloha\my_game_engine\tree.h
+	"GrafObj.h"
+	<windows.h>
+	<stdlib.h>
+	"strom.h"
+
+1321730459 d:\dropbox\dropbox\záloha\my_game_engine\strom.h
+	<windows.h>
+	<stdlib.h>
+	"lights.h"
+	"targa.h"
+	<iostream>
+
+1321311189 d:\dropbox\dropbox\záloha\my_game_engine\lights.h
+	<GL/glut.h>
+
+1290781810 d:\dropbox\dropbox\záloha\my_game_engine\targa.h
+	<vector>
+	<string>
+	<fstream>
+
+1321987807 d:\dropbox\dropbox\záloha\my_game_engine\hero.h
+	"GrafObj.h"
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	"Material.h"
+	"Item.h"
+	"Lights.h"
+
+1321622859 d:\dropbox\dropbox\záloha\my_game_engine\material.h
+	"GLee.h"
+	<GL/glut.h>
+
+1321640597 d:\dropbox\dropbox\záloha\my_game_engine\item.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"GrafObj.h"
+	"Lights.h"
+
+1321643161 d:\dropbox\dropbox\záloha\my_game_engine\terrain.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1321974641 d:\dropbox\dropbox\záloha\my_game_engine\runestone.h
+	"GrafObj.h"
+
+1321460001 source:d:\dropbox\dropbox\záloha\my_game_engine\grafobj.cpp
+	"GrafObj.h"
+
+1322051408 source:d:\dropbox\dropbox\záloha\my_game_engine\hero.cpp
+	"Hero.h"
+
+1321654438 source:d:\dropbox\dropbox\záloha\my_game_engine\item.cpp
+	"Item.h"
+
+1321796010 source:d:\dropbox\dropbox\záloha\my_game_engine\lights.cpp
+	"Lights.h"
+
+1321736227 source:d:\dropbox\dropbox\záloha\my_game_engine\material.cpp
+	"Material.h"
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1321974614 source:d:\dropbox\dropbox\záloha\my_game_engine\runestone.cpp
+	"RuneStone.h"
+
+1321979777 source:d:\dropbox\dropbox\záloha\my_game_engine\scene.cpp
+	"Scene.h"
+
+1321735097 d:\dropbox\dropbox\záloha\my_game_engine\scene.h
+	"GameWorld.h"
+	"Lights.h"
+	<windows.h>
+	<stdlib.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1321979777 source:d:\dropbox\dropbox\záloha\my_game_engine\terrain.cpp
+	"Terrain.h"
+	"Vertex.h"
+
+1321642273 d:\dropbox\dropbox\záloha\my_game_engine\vertex.h
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+
+1321648838 source:d:\dropbox\dropbox\záloha\my_game_engine\tree.cpp
+	"Tree.h"
+
+1321998577 source:d:\dropbox\dropbox\záloha\my_game_engine\main.cpp
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"Scene.h"
+
+1321824137 source:d:\dropbox\dropbox\záloha\my_game_engine\strom.cpp
+	"strom.h"
+	<stdlib.h>
+
+1320848752 source:d:\dropbox\dropbox\záloha\my_game_engine\targa.cpp
+	<fstream>
+	<cassert>
+	<iostream>
+	"targa.h"
+
+1323291387 source:c:\users\marek\desktop\my_game_engine\menu.cpp
+	"Menu.h"
+
+1322822935 c:\users\marek\desktop\my_game_engine\menu.h
+	"GrafObj.h"
+	<windows.h>
+	"Targa.h"
+	"GLee.h"
+	"Vertex2D.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	<vector>
+	"Lights.h"
+	"Material.h"
+
+1322823171 c:\users\marek\desktop\my_game_engine\vertex2d.h
+	"GLee.h"
+	<GL/glut.h>
+
+1320163356 source:c:\users\marek\desktop\my_game_engine\general3dmodel.cpp
+	"General3dModel.h"
+
+1320163356 c:\users\marek\desktop\my_game_engine\general3dmodel.h
+
+1323292513 source:c:\users\marek\desktop\my_game_engine\model3ds.cpp
+	"Model3ds.h"
+
+1322571323 c:\users\marek\desktop\my_game_engine\model3ds.h
+	<iostream>
+	<windows.h>
+	"GLee.h"
+	<gl/gl.h>
+	<gl/glut.h>
+	"General3dModel.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<io.h>
+	"math.h"
+
+1250308674 c:\program files\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1250308676 c:\program files\codeblocks\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1250308678 c:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1322228385 c:\users\marek\desktop\my_game_engine\weapon.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1323295543 source:c:\users\marek\desktop\my_game_engine\weapon.cpp
+	"Weapon.h"
+
+1323291622 source:c:\users\marek\desktop\my_game_engine\wall.cpp
+	"Wall.h"
+
+1322823227 c:\users\marek\desktop\my_game_engine\wall.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	"Vertex.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1322822007 source:c:\users\marek\desktop\my_game_engine\mount.cpp
+	"Mount.h"
+
+1322464871 c:\users\marek\desktop\my_game_engine\mount.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1322472119 source:c:\users\marek\desktop\my_game_engine\finalentity.cpp
+	"FinalEntity.h"
+
+1322469779 c:\users\marek\desktop\my_game_engine\finalentity.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1323296626 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\enemy.cpp
+	"Enemy.h"
+
+1322339779 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\enemy.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1323294731 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\grafobj.h
+	<windows.h>
+	<stdlib.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1287415770 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1322574923 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\model3ds.h
+	<iostream>
+	<windows.h>
+	"GLee.h"
+	<gl/gl.h>
+	<gl/glut.h>
+	"General3dModel.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<io.h>
+	"math.h"
+
+1320166956 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\general3dmodel.h
+
+1322475719 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\finalentity.cpp
+	"FinalEntity.h"
+
+1322473379 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\finalentity.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1287416020 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1323298919 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\gameworld.cpp
+	"GameWorld.h"
+
+1322826111 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\gameworld.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	"GLee.h"
+	<GL/glut.h>
+	"GrafObj.h"
+	"Tree.h"
+	"Hero.h"
+	"Enemy.h"
+	"Terrain.h"
+	"Runestone.h"
+	"Menu.h"
+	"Wall.h"
+	"FinalEntity.h"
+
+1322329494 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\tree.h
+	"GrafObj.h"
+	<windows.h>
+	<stdlib.h>
+	"Model3ds.h"
+
+1333541494 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\hero.h
+	"GrafObj.h"
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	"Material.h"
+	"Item.h"
+	"Lights.h"
+	"Model3ds.h"
+	"Weapon.h"
+	"Mount.h"
+
+1322577644 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\material.h
+	"GLee.h"
+	<GL/glut.h>
+
+1322826474 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\item.h
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"GrafObj.h"
+	"Lights.h"
+
+1322826535 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\lights.h
+	<GL/glut.h>
+
+1322231985 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\weapon.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1322468471 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\mount.h
+	"GrafObj.h"
+	"Model3ds.h"
+
+1322826627 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\terrain.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1290785410 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\targa.h
+	<vector>
+	<string>
+	<fstream>
+
+1322826574 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\runestone.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	"Vertex.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1322826771 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\vertex.h
+	"GLee.h"
+	<GL/glut.h>
+
+1322826535 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\menu.h
+	"GrafObj.h"
+	<windows.h>
+	"Targa.h"
+	"GLee.h"
+	"Vertex2D.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	<vector>
+	"Lights.h"
+	"Material.h"
+
+1322826771 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\vertex2d.h
+	"GLee.h"
+	<GL/glut.h>
+
+1322826827 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\wall.h
+	"GrafObj.h"
+	"Targa.h"
+	"GLee.h"
+	"Vertex.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+
+1320166956 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\general3dmodel.cpp
+	"General3dModel.h"
+
+1323294871 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\grafobj.cpp
+	"GrafObj.h"
+
+1324326773 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\hero.cpp
+	"Hero.h"
+
+1324334549 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\item.cpp
+	"Item.h"
+
+1323300340 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\lights.cpp
+	"Lights.h"
+
+1323207931 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\material.cpp
+	"Material.h"
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+
+1323296113 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\model3ds.cpp
+	"Model3ds.h"
+
+1322825607 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\mount.cpp
+	"Mount.h"
+
+1323295222 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\runestone.cpp
+	"RuneStone.h"
+
+1322825895 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\scene.cpp
+	"Scene.h"
+
+1322389127 d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\scene.h
+	"GameWorld.h"
+	"Lights.h"
+	<windows.h>
+	<stdlib.h>
+	"GLee.h"
+	<GL/glut.h>
+	<iostream>
+
+1323296626 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\terrain.cpp
+	"Terrain.h"
+	"Vertex.h"
+
+1323294758 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\tree.cpp
+	"Tree.h"
+
+1323295222 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\wall.cpp
+	"Wall.h"
+
+1323299143 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\weapon.cpp
+	"Weapon.h"
+
+1323299804 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\main.cpp
+	<windows.h>
+	"GLee.h"
+	<GL/glut.h>
+	<stdlib.h>
+	"Scene.h"
+	"Menu.h"
+
+1320852352 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\targa.cpp
+	<fstream>
+	<cassert>
+	<iostream>
+	"targa.h"
+
+1333541162 source:d:\škola\magisterské studium\3. semestr zs 2011\pgr2\my_game_engine\menu.cpp
+	"Menu.h"
+

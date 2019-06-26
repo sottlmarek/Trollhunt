@@ -1,0 +1,14 @@
+  ---------     OVLADANI HRY       ---------
+Pohyb po mapě je realizován je w,s,a,d.
+Ovládání kamery a její výšky c.
+Použití kouzel(útok) pomocí myši.
+Použití dopravního prostředku(mounta) klávesa m.
+Východ ze hry ESC. 
+
+
+  ---------     Doplňující informace       ---------
+ Hra má implementován Level of detail, tzn. zobrazují se objekty blízké hridnovi. U sblabších HW sestav může dojít ke zpomalení. I přes tuto optimalizaci(Př. pokud se nachází velmi vysoké množství objektů u hrdiny). Modely byli vytvořeny pomocí Modelovacího nástroje Rhinoceros a optimalizovány pro zobrazení(minimalizace počtu polygonů).
+ 
+ 
+  ---------     Herní svět       --------------------
+ V každé mapě je hlavním úkolem posbírat všechny "Light orb" a porazit hordy nepřátel. Po splnění úkolu je možné projít "Rune stone", který přenese hráče do nového světa. Jakmile se hráč dostane do posledního světa, je hlavním úkolem najít "Wise Eldera", který je hlídán koncovým bossem. 
